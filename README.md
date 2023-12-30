@@ -2,8 +2,18 @@
 
 <h2>Projects:</h2>
 
-- <b>Mitre-Search</b>
+- <b>Mitre Search</b>
   - [Quickly Search the Mitre Framework for information coded in Python](https://github.com/jxnv/Mitre-Search)
+- <b>Pentest+ Keylogger</b>
+  - [Keylogger Coded in Python](https://github.com/jxnv/Pentestpluslab-keylogger)
+- <b>Port Enumerator</b>
+  - [Ruby Written PortEnumerator](https://github.com/jxnv/Port-Enumerator-for-comptialab)
+- <b>Nmap Popular Port Scanner</b>
+  - [Ruby Written Popular Port Scanner](https://github.com/jxnv/Nmap-popular-portscanner-ruby)
+- <b>File Integrity Monitor</b>
+  - [File Monitor written in Python](https://github.com/jxnv/Nmap-popular-portscanner-ruby)
+
+
 <h2>Certifications:</h2>
 
 - CompTIA A+
