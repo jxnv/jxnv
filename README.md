@@ -1,32 +1,37 @@
-<h1>Justin  <br/><a href="https://github.com/jxnv">Programmer</a>, <a href="https://www.linkedin.com/in/jchamreunr/">Cybersecurity Professional</a></h1>
+<h1>Justin Chamreun</h1>
+<p>
+  <a href="https://github.com/jxnv" target="_blank">Programmer</a> | 
+  <a href="https://www.linkedin.com/in/jchamreun/" target="_blank">Cybersecurity Professional</a>
+</p>
 
-<h2>Projects:</h2>
+<h2>Projects</h2>
+<ul>
+  <li><strong><a href="https://github.com/jxnv/Mitre-Search" target="_blank">Mitre Search</a></strong> 
+    - Quickly search the Mitre Framework using Python.</li>
+  <li><strong><a href="https://github.com/jxnv/Pentestpluslab-keylogger" target="_blank">Pentest+ Keylogger</a></strong> 
+    - A keylogger coded in Python.</li>
+  <li><strong><a href="https://github.com/jxnv/Port-Enumerator-for-comptialab" target="_blank">Port Enumerator</a></strong> 
+    - A port enumerator written in Ruby.</li>
+  <li><strong><a href="https://github.com/jxnv/Nmap-popular-portscanner-ruby" target="_blank">Nmap Popular Port Scanner</a></strong> 
+    - A popular port scanner written in Ruby.</li>
+  <li><strong><a href="https://github.com/jxnv/Nmap-popular-portscanner-ruby" target="_blank">File Integrity Monitor</a></strong> 
+    - A file integrity monitor written in Python.</li>
+</ul>
 
-- <b>Mitre Search</b>
-  - [Quickly Search the Mitre Framework for information coded in Python](https://github.com/jxnv/Mitre-Search)
-- <b>Pentest+ Keylogger</b>
-  - [Keylogger Coded in Python](https://github.com/jxnv/Pentestpluslab-keylogger)
-- <b>Port Enumerator</b>
-  - [Ruby Written PortEnumerator](https://github.com/jxnv/Port-Enumerator-for-comptialab)
-- <b>Nmap Popular Port Scanner</b>
-  - [Ruby Written Popular Port Scanner](https://github.com/jxnv/Nmap-popular-portscanner-ruby)
-- <b>File Integrity Monitor</b>
-  - [File Monitor written in Python](https://github.com/jxnv/Nmap-popular-portscanner-ruby)
+<h2>Certifications</h2>
+<ul>
+  <li>CompTIA A+</li>
+  <li>CompTIA Network+</li>
+  <li>CompTIA Security+</li>
+  <li>CompTIA Pentest+</li>
+  <li>CompTIA CySA+</li>
+  <li>CompTIA CASP+</li>
+  <li>Axelos ITIL v4 Foundations</li>
+</ul>
 
-
-<h2>Certifications:</h2>
-
-- CompTIA A+
-- CompTIA Network+
-- CompTIA Security+
-- CompTIA Pentest+
-- CompTIA CySA+
-- Axelos ITIL v4 Foundations
-- SSCP Associate
-
-<h2>Connect with me:</h2>
-
-[<img align="left" alt="JustinChamreun | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[linkedin]: https://linkedin.com/in/jchamreun
+<h2>Connect with Me</h2>
+<p>
+  <a href="https://linkedin.com/in/jchamreun" target="_blank">
+    <img align="left" alt="LinkedIn | Justin Chamreun" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+</p>
