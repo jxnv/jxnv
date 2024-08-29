@@ -14,7 +14,7 @@
     - A port enumerator written in Ruby.</li>
   <li><strong><a href="https://github.com/jxnv/Nmap-popular-portscanner-ruby" target="_blank">Nmap Popular Port Scanner</a></strong> 
     - A popular port scanner written in Ruby.</li>
-  <li><strong><a href="https://github.com/jxnv/Nmap-popular-portscanner-ruby" target="_blank">File Integrity Monitor</a></strong> 
+  <li><strong><a href="https://github.com/jxnv/File-Integrity-Monitor-Hashing">File Integrity Monitor</a></strong> 
     - A file integrity monitor written in Python.</li>
 </ul>
 
