@@ -25,15 +25,8 @@
   I use this GitHub to document personal security projects, automation, research, and technical experiments.
 </p>
 
-<h2>Featured Project</h2>
+<h2>Portfolio</h2>
 
-<p>
-  <strong>
-    <a href="https://github.com/jxnv/Security-Portfolio" target="_blank">Security Portfolio</a>
-  </strong>
-</p>
-
-<p>
   My central cybersecurity portfolio containing detection engineering projects,
   security automation, threat research, tooling, and hands-on security labs.
 </p>
