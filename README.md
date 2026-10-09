@@ -14,7 +14,7 @@
 <h2>About Me</h2>
 
 <p>
-  Cybersecurity professional specializing in <strong>detection engineering, threat detection, security automation, and security telemetry analysis</strong>.
+  Cybersecurity professional specializing in <strong>detection engineering, platform management, threat detection, security automation, and incident analysis</strong>.
 </p>
 
 <p>
@@ -73,12 +73,14 @@
 <h2>Certifications</h2>
 
 <ul>
+  <li>CISSP</li>
   <li>CompTIA SecurityX / CASP+</li>
   <li>CompTIA CySA+</li>
   <li>CompTIA PenTest+</li>
   <li>CompTIA Security+</li>
   <li>CompTIA Network+</li>
   <li>CompTIA A+</li>
+  <li>SSCP</li>
   <li>ITIL 4 Foundation</li>
   <li>AWS Certified Cloud Practitioner</li>
   <li>AWS Certified Solutions Architect – Associate</li>
